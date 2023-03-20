@@ -1,4 +1,5 @@
 /* -- Global styles -- */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -30,8 +31,8 @@ p {
     margin-left: 25px;
 }
 
-
 /* -- Header -- */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -79,13 +80,14 @@ header nav ul li {
 }
 
 /* -- Content section -- */
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* -- Search engine optimization -- */
+/* -- Content | Search engine optimization -- */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -105,7 +107,7 @@ header nav ul li {
     font-size: 36px;
 }
 
-/* -- Online reputation management -- */
+/* -- Content | Online reputation management -- */
 
 .online-reputation-management {
     margin-bottom: 20px;
@@ -125,7 +127,7 @@ header nav ul li {
     font-size: 36px;
 }
 
-/* -- Social media marketing -- */
+/* -- Content | Social media marketing -- */
 
 .social-media-marketing {
     margin-bottom: 20px;
@@ -160,6 +162,8 @@ header nav ul li {
     background-color: #2589bd;
 }
 
+/* -- Benefits | Lead section -- */
+
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -176,6 +180,8 @@ header nav ul li {
     max-width: 150px;
 }
 
+/* -- Benefits | Brand section -- */
+
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -191,6 +197,8 @@ header nav ul li {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* -- Benefits | Brand section -- */
 
 .benefit-cost {
     margin-bottom: 32px;
@@ -211,6 +219,7 @@ header nav ul li {
 /* -- Benefits section END -- */
 
 /* -- Footer section -- */
+
 footer {
     padding: 30px;
     clear: both;
