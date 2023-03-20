@@ -19,6 +19,7 @@ p {
 }
 
 /* -- Helpers -- */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -144,6 +145,8 @@ header nav ul li {
     font-size: 36px;
 }
 
+/* -- Content section END -- */
+
 /* -- Benefits section -- */
 
 .benefits {
@@ -204,6 +207,8 @@ header nav ul li {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* -- Benefits section END -- */
 
 /* -- Footer section -- */
 footer {
